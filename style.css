@@ -1,0 +1,23 @@
+body{background-color: #B9D5A3;}
+h1{color: #874437;
+font-family: Courier;
+font-size: 40px;
+text-align: center;}
+p{color: #874437;
+font-family: Courier;
+font-size: 18px;
+text-align: center;}
+a{color: black;
+font-family: Courier;
+font-size: 14px;
+text-decoration: none;}
+a:hover{color: #874437;}
+ul{list-style-type: none;
+text-align: center;}
+
+.center {
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
